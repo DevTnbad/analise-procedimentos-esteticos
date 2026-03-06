@@ -1,6 +1,6 @@
 # Dashboard de Análise de Procedimentos Estéticos
 
-Projeto desenvolvido em Python com Streamlit para cadastrar clientes, procedimentos e atendimentos, além de gerar análises por faixa etária.
+Projeto desenvolvido em Python com Streamlit para cadastrar clientes, procedimentos e atendimentos. Tem como objetivo principal gerar análises por faixa etária.
 
 ## Funcionalidades
 
